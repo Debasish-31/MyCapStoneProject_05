@@ -1,0 +1,48 @@
+==========================================
+Log Monitor Started at Sat Nov  8 23:37:53 IST 2025
+==========================================
+
+Checking ./logs/backup.log ...
+Starting backup at Sat Nov  8 23:19:18 IST 2025
+tar: Removing leading '/' from member names
+Backup completed successfully at Sat Nov  8 23:19:19 IST 2025
+
+Checking ./logs/monitor.log ...
+==========================================
+Log Monitor Started at Sat Nov  8 23:37:53 IST 2025
+==========================================
+
+Checking ./logs/backup.log ...
+Starting backup at Sat Nov  8 23:19:18 IST 2025
+tar: Removing leading '/' from member names
+Backup completed successfully at Sat Nov  8 23:19:19 IST 2025
+
+Checking ./logs/monitor.log ...
+
+Checking ./logs/update.log ...
+
+Log monitoring completed at Sat Nov  8 23:37:53 IST 2025
+==========================================
+Log Monitor Started at Sat Nov  8 23:37:53 IST 2025
+==========================================
+
+Checking ./logs/backup.log ...
+Starting backup at Sat Nov  8 23:19:18 IST 2025
+tar: Removing leading '/' from member names
+Backup completed successfully at Sat Nov  8 23:19:19 IST 2025
+
+Checking ./logs/monitor.log ...
+==========================================
+Log Monitor Started at Sat Nov  8 23:37:53 IST 2025
+==========================================
+
+Checking ./logs/backup.log ...
+Starting backup at Sat Nov  8 23:19:18 IST 2025
+tar: Removing leading '/' from member names
+Backup completed successfully at Sat Nov  8 23:19:19 IST 2025
+
+Checking ./logs/monitor.log ...
+
+Checking ./logs/update.log ...
+
+Log monitoring completed at Sat Nov  8 23:37:53 IST 2025
